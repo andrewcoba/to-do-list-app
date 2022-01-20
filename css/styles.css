@@ -64,9 +64,9 @@ ol li:nth-child(even) {
 }
 
 li > crossOutButton {
-	 background: none;
-	 border: none;
-	 float: right;
-	 color: #025f70;
-   font-weight: 800;
+  background: none;
+  border: none;
+  float: right;
+  color: #025f70;
+  font-weight: 800;
 }
